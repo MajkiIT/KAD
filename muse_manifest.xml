@@ -1,0 +1,22 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://azet12.github.io/KAD" resolutions="1x" timestamp="1460473359694">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_w.css" crc="231637738" ref="instrukcje:zgłoszenia:index"/>
+    <file name="instrukcje.css" crc="4260652291" ref="instrukcje"/>
+    <file name="zg_oszenia.css" crc="4255535998" ref="zgłoszenia"/>
+    <file name="index.css" crc="152466021" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:zgłoszenia:instrukcje"/>
+    <file name="museutils.js" crc="183364071" ref="index:zgłoszenia:instrukcje"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:zgłoszenia:instrukcje"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:zgłoszenia:instrukcje"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:zgłoszenia:instrukcje"/>
+  </folder>
+  <folder name="images">
+    <file name="icon-1.png" crc="217958059" seo="true" ref="index:zgłoszenia:instrukcje"/>
+  </folder>
+  <file name="index.html" crc="410584037" seo="true" mt="1460472828621" redirect="true"/>
+  <file name="zgłoszenia.html" crc="3917706295" seo="true" mt="1460472447260" redirect="true"/>
+  <file name="instrukcje.html" crc="18907021" seo="true" mt="1460472447260" redirect="true"/>
+</manifest>
