@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://azet12.github.io/KAD" resolutions="1x" timestamp="1460475727806">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://azet12.github.io/KAD" resolutions="1x" timestamp="1460479039731">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
     <file name="master_w.css" crc="231637738" ref="instrukcje:zgłoszenia:index"/>
     <file name="instrukcje.css" crc="4260652291" ref="instrukcje"/>
     <file name="zg_oszenia.css" crc="4255535998" ref="zgłoszenia"/>
-    <file name="index.css" crc="3965368388" ref="index"/>
+    <file name="index.css" crc="50807806" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:zgłoszenia:instrukcje"/>
@@ -16,7 +16,7 @@
   <folder name="images">
     <file name="icon-1.png" crc="217958059" seo="true" ref="index:zgłoszenia:instrukcje"/>
   </folder>
-  <file name="index.html" crc="3806491788" seo="true" mt="1460475575237" redirect="true"/>
+  <file name="index.html" crc="4085261138" seo="true" mt="1460479033773" redirect="true"/>
   <file name="zgłoszenia.html" crc="3917706295" seo="true" mt="1460472447260" redirect="true"/>
   <file name="instrukcje.html" crc="18907021" seo="true" mt="1460472447260" redirect="true"/>
 </manifest>
