@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000009;
-	background-color: #167265;
+	color: #0000EC;
+	background-color: #5AB844;
 }
 
 .html
@@ -335,7 +335,7 @@
 	margin: 122px -10000px 0px 0px;
 }
 
-#u142-4
+#u142-5
 {
 	z-index: 76;
 	width: 119px;
@@ -352,7 +352,7 @@
 	left: 56px;
 }
 
-#buttonu140:hover #u142-4
+#buttonu140:hover #u142-5
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -361,7 +361,7 @@
 	margin: 17px -10000px 0px 0px;
 }
 
-#buttonu140.ButtonSelected #u142-4
+#buttonu140.ButtonSelected #u142-5
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -370,13 +370,13 @@
 	margin: 17px -10000px 0px 0px;
 }
 
-#buttonu140:hover #u142-4 p
+#buttonu140:hover #u142-5 p,#buttonu140:hover #u142-5 a
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#buttonu140.ButtonSelected #u142-4 p
+#buttonu140.ButtonSelected #u142-5 p,#buttonu140.ButtonSelected #u142-5 a
 {
 	color: #3C3C3C;
 	visibility: inherit;
