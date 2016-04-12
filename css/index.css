@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #5AB844;
+	color: #000003;
+	background-color: #0743FE;
 }
 
 .html
@@ -306,80 +306,17 @@
 	font-style: italic;
 }
 
-#buttonu140
+#u228
 {
 	z-index: 75;
-	width: 231px;
-	border-color: #787878;
-	background-color: #CACACA;
-	padding-bottom: 10px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 122px;
-	left: 290px;
-}
-
-#buttonu140:hover
-{
-	background-color: #545454;
-	width: 231px;
-	min-height: 0px;
-	margin: 122px -10000px 0px 0px;
-}
-
-#buttonu140.ButtonSelected
-{
-	background-color: #CACACA;
-	width: 231px;
-	min-height: 0px;
-	margin: 122px -10000px 0px 0px;
-}
-
-#u142-5
-{
-	z-index: 76;
-	width: 119px;
-	min-height: 23px;
+	width: 811px;
+	min-height: 64px;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
-	color: #3C3C3C;
-	font-size: 14px;
-	text-align: center;
-	letter-spacing: 1px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 17px;
-	left: 56px;
-}
-
-#buttonu140:hover #u142-5
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 119px;
-	margin: 17px -10000px 0px 0px;
-}
-
-#buttonu140.ButtonSelected #u142-5
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 119px;
-	margin: 17px -10000px 0px 0px;
-}
-
-#buttonu140:hover #u142-5 p,#buttonu140:hover #u142-5 a
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu140.ButtonSelected #u142-5 p,#buttonu140.ButtonSelected #u142-5 a
-{
-	color: #3C3C3C;
-	visibility: inherit;
+	margin-top: 111px;
 }
 
 #u172-9
