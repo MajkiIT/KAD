@@ -88,12 +88,10 @@ body
 a
 {
 	color: inherit;
-	text-decoration: inherit;
 }
 
 a:link
 {
-	text-decoration: underline;
 }
 
 a:visited
