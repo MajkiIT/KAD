@@ -1,154 +1,119 @@
 <!DOCTYPE html>
-<html class="html" lang="pl-PL">
- <head>
-
-  <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
-</script>
-  
-  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-  <meta name="keywords" content="kad, azet12, przekrety sms, subskrypcje sms, polskie filtry adblock, polskie filtry ublock"/>
+<html>
+<head>
+  <!-- Site made with Mobirise Website Builder v2.14.2, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v2.14.2, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/icon-2-128x128-27.png" type="image/x-icon">
+  <meta name="description" content="Filtr do oprogramowania typu adblock lub uBlock blokujący polskie strony typu przekręt i phishing.">
   <title>KAD - stop przekrętom</title>
-  <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?453856629"/>
-  <link rel="stylesheet" type="text/css" href="css/master_w.css?231637738"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?50807806" id="pagesheet"/>
-  <style>
-.button {
-    display: inline-block;
-    text-align: center;
-    vertical-align: middle;
-    padding: 35px 80px;
-    border: 1px solid #a12727;
-    border-radius: 8px;
-    background: #ff4a4a;
-    background: -webkit-gradient(linear, left top, left bottom, from(#ff4a4a), to(#992727));
-    background: -moz-linear-gradient(top, #ff4a4a, #992727);
-    background: linear-gradient(to bottom, #ff4a4a, #992727);
-    -webkit-box-shadow: #ff5959 0px 0px 10px 0px;
-    -moz-box-shadow: #ff5959 0px 0px 10px 0px;
-    box-shadow: #ff5959 0px 0px 10px 0px;
-    text-shadow: #591717 1px 1px 1px;
-    font: normal normal bold 20px arial;
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:hover,
-.button:focus {
-    background: #ff5959;
-    background: -webkit-gradient(linear, left top, left bottom, from(#ff5959), to(#b62f2f));
-    background: -moz-linear-gradient(top, #ff5959, #b62f2f);
-    background: linear-gradient(to bottom, #ff5959, #b62f2f);
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:active {
-    background: #982727;
-    background: -webkit-gradient(linear, left top, left bottom, from(#982727), to(#982727));
-    background: -moz-linear-gradient(top, #982727, #982727);
-    background: linear-gradient(to bottom, #982727, #982727);
-}
-.button:before{
-    content:  "\0000a0";
-    display: inline-block;
-    height: 24px;
-    width: 24px;
-    line-height: 24px;
-    margin: 0 4px -6px -4px;
-    position: relative;
-    top: 0px;
-    left: -20px;
-    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAEmElEQVRIidWUXYhdVxXHf2ufj3vO3HPnztyZTOarQ0zaZPJhEBroTKIham1ECn0oaMEKeWgfGigRfCh0UijBEA1KyYNv+qCID4KgISJIyBe2hKJITG3SJmaS6WTItbc3M3PvnHvvOfujD3dSEwiDQR/0D4vN2pu9fnuttfeG/3fJWovRzGmG+3tH01Y+3GhlIHKjdXTf4n8MiA+fHw1971AlKbwwVI4nZqtLtDODNs4mcfDntGN+Zqz7Revo3vYjAeLXzuIV/BfHB4onxgeKFQQGShFXPqpTW2qTacPU5DCZtlxbWPrbx8vtbzePfOm9tQDqfscLve8WC97PR/p7KsZa7jY6lOKQnkJApVTgqS3DVEoRQ+WY6cn1O4d6o/OVI2/v+rcA8eELT/cUvB8XfKUWVzqMDST09gSU4oAkCti7Y4yNI2VKcXfuzt0UJVSSyP9N35t/qqwJiF8/G+LciUaaq1Ic8vyeTVy++QnlYoG+pMD01u7JS1FAEoVo61jf18Nwfw/tTE9oY99YOwPlPSO4bSJws7rMyYuzzH3c4PrCIr4SkiigGAUkcUAYKJqtnOpiyrWFRb66IeP4fvvSmSvnHpqFD4Bzz4EDBIfjvVs1kihkanKE2nIb31MoEaYGq3g9lnI7pVVo8v1p2DIIHibxfPVBs3nu1yLyV3ChiCRxPHfcXwXtcO5f1HXlmKnJEXJtWFyxKBGUEgaHFyl3aoz7SyQbe+ksVHn3J39ky1SByhefHlTF4YP3YogXzqXpYz/yAQR6QUCgEPh8fsMgnhK0dXgOnAJwhMow984lLs68RTEKiMQRB4rN23fAP05hgwDxBFn/FDKwM7LW+n53K81SHPDkE0Pk2hKFHtpaPCc4JSgnqw/G0ajWsdahc40JFNo6bG5xmQHrwBPIOwDKWtttsgjvh4HHfK2JCDRaOcY4tHXo1dFYi3FCJ+2gHWh7zxxOW1xuITO4jun6uEwpz97L4PejleIB3xOWVjJEQGtLuRjilOCckDkh1UL/+hKbJnsJfUUYKAJfUZ9fod3IUZ4gSignQjImNY+O7jbZmFO36ys3to73b+zkhr9c/ycAYwNFtk1U8JTCAfPNAjunt7ObDRAoZNVO/fQad+dTAk/hC+ydrhBZudhX3t8tUevYV9r1Rva9O4upbbQynHM455j/ZIW/36qznGZoY7laj1npm6ATVSDvlsVllix3tLWjlVtk3SDJlk0YJ7974KsI0vS3t6qNHxjriEMfEUEcLNRXuHyzhrGOD+oFap2Q6rZv4LTr1jwzZNrSzi0tbXn85W9ilXc1M/b0A4Dlt76O1nrmRrVxKAz9VFbvL0ClFKGNJTeOP8z2UVs3yfyT30JTgMzQyS0dUUwefJGx/Xu1cerVxwb2ZfeFeFDx4fObgRmce1agMrGuRBIHdHLDcppf3/e57OSBXeqFIGuO9t2+xPsXPmToma/Rv2GkGfrqla1De3752YN7GOCeopmzPSLqcawdBdGi5IY1dq597Mv6zOw7FU9xUMF3PHHjgeJXgSc//MLI7utrxXxknZk9ry7Mvj38Xw36P6VPAdhSCSiXxToyAAAAAElFTkSuQmCC") no-repeat left center transparent;
-    background-size: 100% 100%;
-    color: #ffffff;
-    text-decoration: none;
-}
-</style>
-  <!-- Other scripts -->
-  <script type="text/javascript">
-   document.documentElement.className += ' js';
-</script>
-  <!-- JS includes -->
-  <!--[if lt IE 9]>
-  <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
-  <![endif]-->
-   </head>
- <body>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,400&amp;subset=cyrillic,latin,greek,vietnamese">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/socicon.min.css">
+  <link rel="stylesheet" href="assets/mobirise/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+<section class="mbr-navbar mbr-navbar--freeze mbr-navbar--absolute mbr-navbar--sticky mbr-navbar--auto-collapse" id="menu-0">
+    <div class="mbr-navbar__section mbr-section">
+        <div class="mbr-section__container container">
+            <div class="mbr-navbar__container">
+                <div class="mbr-navbar__column mbr-navbar__column--s mbr-navbar__brand">
+                    <span class="mbr-navbar__brand-link mbr-brand mbr-brand--inline">
+                        <span class="mbr-brand__logo"><a href="index.html"><img src="assets/images/1466895219-stop-128x128-64.png" class="mbr-navbar__brand-img mbr-brand__img"></a></span>
+                        <span class="mbr-brand__name"><a class="mbr-brand__name text-white" href="https://mobirise.com">KAD - stop przekrętom</a></span>
+                    </span>
+                </div>
+                <div class="mbr-navbar__hamburger mbr-hamburger"><span class="mbr-hamburger__line"></span></div>
+                <div class="mbr-navbar__column mbr-navbar__menu">
+                    <nav class="mbr-navbar__menu-box mbr-navbar__menu-box--inline-right">
+                        <div class="mbr-navbar__column">
+                            <ul class="mbr-navbar__items mbr-navbar__items--right float-left mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active mbr-buttons--only-links"><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="#top">START</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.html#msg-box3-25">INSTRUKCJE</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="informacje.html">INFORMACJE I KONTAKT</a></li></ul>                            
+                            
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div class="clip_frame grpelem" id="u75"><!-- image -->
-    <img class="block" id="u75_img" src="images/icon-2.png" alt="" width="128" height="128"/>
-   </div>
-   <div class="clearfix grpelem" id="ppu81-3"><!-- column -->
-    <div class="clearfix colelem" id="pu81-3"><!-- group -->
-     <div class="clearfix grpelem" id="u81-3"><!-- content -->
-      <p>&nbsp;</p>
-     </div>
-     <div class="clearfix grpelem" id="u83-6"><!-- content -->
-      <p id="u83-2">KAD</p>
-      <p>&nbsp;Filtr prosto z Polski.</p>
-     </div>
-     <nav class="MenuBar clearfix grpelem" id="menuu84"><!-- horizontal box -->
-      <div class="MenuItemContainer clearfix grpelem" id="u85"><!-- vertical box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u86" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u88-4"><!-- content --><p>Start</p></div></a>
-      </div>
-      <div class="MenuItemContainer clearfix grpelem" id="u164"><!-- vertical box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u167" href="instrukcje.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u169-4"><!-- content --><p>Instrukcje</p></div></a>
-      </div>
-      <div class="MenuItemContainer clearfix grpelem" id="u150"><!-- vertical box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u153" href="zg%c5%82oszenia.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u155-4"><!-- content --><p>Informacje</p></div></a>
-      </div>
-     </nav>
+<section class="engine"><a rel="external" href="https://mobirise.com">free html website builder</a></section><section class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted" id="header1-1" style="background-color: rgb(76, 105, 114);">
+    <div class="mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-center mbr-after-navbar">
+        
+        <div class="mbr-box__container mbr-section__container container">
+            <div class="mbr-box mbr-box--stretched"><div class="mbr-box__magnet mbr-box__magnet--center-center">
+                <div class="row"><div class=" col-sm-8 col-sm-offset-2">
+                    <div class="mbr-hero animated fadeInUp">
+                        <h1 class="mbr-hero__text">Zablokujmy strony, które wyłudzają pieniądze i dane.<br>Za darmo.</h1>
+                        <p class="mbr-hero__subtext">KAD jest filtrem do rozszerzenia uBlock, który blokuje najróżniejsze strony typu przekręt i phishing.<br></p>
+                    </div>
+                    <div class="mbr-buttons btn-inverse mbr-buttons--center"><a class="mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay" href="abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fazet12%2FKAD%2Fmaster%2FKAD.txt&amp;title=KAD%20-%20Przekrety">ZASUBSKRYBUJ TERAZ</a>  <a class="mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay" href="index.html#msg-box3-25">ZAINSTALUJ uBlock Origin<br>(wymagany do działania filtra)<br></a></div>
+                </div></div>
+            </div></div>
+        </div>
+        <div class="mbr-arrow mbr-arrow--floating text-center">
+            <div class="mbr-section__container container">
+                <a class="mbr-arrow__link" href="#footer1-2"><i class="glyphicon glyphicon-menu-down"></i></a>
+            </div>
+        </div>
     </div>
-    <div class="clearfix colelem" id="pu100-34"><!-- group -->
-     <div class="clearfix grpelem" id="u100-34"><!-- content -->
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p id="u100-4"><span id="u100-2">KAD</span> to darmowy filtr do oprogramowania typu Adblock lub uBlock.</p>
-      <p id="u100-6">Blokuje on najróżniejsze strony typu przekręt.</p>
-      <p id="u100-7">&nbsp;</p>
-      <p id="u100-20"><span id="u100-9">Wymagania: <a href="ublock.html"  onclick="window.open('ublock.html', 'newwindow', 'width=500, height=400'); return false;"><span id="u100-17"> uBlock Origin</a></span><span id="u100-19"> lub inna wtyczka obsługująca filtry.</span></p>
-      <p id="u100-21">&nbsp;</p>
-      <p id="u100-22">&nbsp;</p>
-      <p id="u100-23"><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Ffiltrkad&width=104&layout=button_count&action=like&show_faces=true&share=false&height=21&appId" width="104" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></p>
-      <p id="u100-24">KAD jest aktywny!</p>
-      <p id="u100-25">Sprawdź też: <a href="https://github.com/azet12/KAD#swietne-uzupelniacze" target="_blank">inne polecane filtry</a> | <a href="https://www.facebook.com/filtrkad/" target="_blank">Facebook</a> | <a href="https://github.com/azet12/KAD" target="_blank">GitHub</a></p>
-      <p id="u100-26">&nbsp;</p>
-      <p id="u100-27"><br />Po kliknięciu guzika wyskoczy małe okienko proszące o potwierdzenie. Kliknij OK i gotowe!</p>
-      <p id="u100-32"><a href="https://azet12.github.io/KAD/sprawdz.html" target="_blank">Kliknij tutaj</a> aby sprawdzic czy KAD jest aktywny. <span id="u100-28">Jeśli przycisk powyżej nie działa, </span><a class="nonblock" href="instrukcje.html"><span id="u100-29">kliknij tutaj</span></a><span id="u100-31">.</span></p>
-     </div>
-     <div class="grpelem" id="u228">
-      <p align="center"><a href="abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fazet12%2FKAD%2Fmaster%2FKAD.txt&amp;title=KAD%20-%20Przekrety" class="button">Zasubskrybuj listę KAD</a></p>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="msg-box3-25" style="background-color: rgb(255, 255, 255);">
+    
+    <div class="mbr-section__container container mbr-section__container--first" style="padding-top: 93px;">
+        <div class="mbr-header mbr-header--wysiwyg row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <h3 class="mbr-header__text">Instrukcja instalacji</h3>
+                
+            </div>
+        </div>
     </div>
-   </div>
-   <div class="verticalspacer"></div>
-   <div class="clearfix grpelem" id="u172-9"><!-- content -->
-   </div>
-  </div>
-  <!-- JS includes -->
-  <script type="text/javascript">
-   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
-</script>
-  <script type="text/javascript">
-   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
-</script>
-  <script src="scripts/museutils.js?183364071" type="text/javascript"></script>
-  <script src="scripts/jquery.musemenu.js?3957776250" type="text/javascript"></script>
-  <script src="scripts/jquery.watch.js?71412426" type="text/javascript"></script>
-  <!-- Other scripts -->
-  <script type="text/javascript">
-   $(document).ready(function() { try {
-(function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
-for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
-typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Brak niektórych plików na serwerze lub niektóre pliki na serwerze są nieprawidłowe. Wyczyść pamięć podręczną przeglądarki i spróbuj ponownie. Jeśli problem nie zniknie, skontaktuj się z autorem witryny.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();
-/* body */
-Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
-Muse.Utils.prepHyperlinks(true);/* body */
-Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
-Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
-} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
-</script>
-   </body>
+    <div class="mbr-section__container container mbr-section__container--last" style="padding-bottom: 93px;">
+        <div class="row">
+            <div class="mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2"><p>Do działania filtra potrzebna jest wtyczka <strong>uBlock Origin</strong>, która blokuje reklamy i wspiera filtry zewnętrzne takie jak KAD. Kliknij na nazwę swojej przeglądarki poniżej i pobierz ją!</p><p><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pl&amp;gl=PL" target="_blank">Google Chrome</a> | <a href="https://addons.mozilla.org/pl/firefox/addon/ublock-origin/" target="_blank">Mozilla Firefox</a> | <a href="https://addons.opera.com/pl/extensions/details/ublock/" target="_blank">Opera</a></p><p><br></p><p>Po pobraniu wtyczki, kliknij pomarańczowy przycisk "Zasubskrybuj teraz" na górze strony. Wyświetli się okienko z potwierdzeniem subskrypcji filtra. Kliknij "OK". Odczekaj chwilę i gotowe!</p><p><br></p><p>Jeśli z jakiegoś powodu przycisk na górze strony nie działa, usuń i zainstaluj uBlock ponownie, lub skorzystaj z <a href="https://github.com/azet12/KAD/wiki/Instalacja-manualna" target="_blank">instrukcji instalacji manualnej</a>.</p></div>
+        </div>
+    </div>
+    
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="social-buttons2-29" style="background-color: rgb(240, 240, 240);">
+    
+
+    <div class="mbr-section__container container">
+        <div class="mbr-header mbr-header--inline row" style="padding-top: 40.8px; padding-bottom: 40.8px;">
+            <div class="col-sm-4">
+                <h3 class="mbr-header__text">ODWIEDŹ KAD NA</h3>
+            </div>
+            <div class="mbr-social-icons mbr-social-icons--style-1 col-sm-8"> <a class="mbr-social-icons__icon socicon-bg-facebook" title="Facebook" target="_blank" href="https://www.facebook.com/filtrkad/"><i class="socicon socicon-facebook"></i></a>     <a class="mbr-social-icons__icon socicon-bg-github" title="GitHub" target="_blank" href="https://github.com/azet12/KAD"><i class="socicon socicon-github"></i></a>    </div>
+        </div>
+    </div>
+</section>
+
+<footer class="mbr-section mbr-section--relative mbr-section--fixed-size" id="footer1-2" style="background-color: rgb(68, 68, 68);">
+    
+    <div class="mbr-section__container container">
+        <div class="mbr-footer mbr-footer--wysiwyg row" style="padding-top: 24.6px; padding-bottom: 12.3px;">
+            <div class="col-sm-12">
+                <p class="mbr-footer__copyright"></p><p>KAD 2016 |&nbsp;<a href="https://mobirise.com/">Licencje</a><a class="mbr-footer__link text-gray" href="https://mobirise.com/"></a></p><p></p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/SmoothScroll.js"></script>
+  <script src="assets/mobirise/js/script.js"></script>
+  
+  
+</body>
 </html>
