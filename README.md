@@ -1,24 +1,6 @@
-# KAD
-Polski filtr do Adblocka i uBlocka blokujący strony typu przekręt (np. subskrypcje SMS).
-
-Możesz zasubskrybowac liste na https://azet12.github.io/KAD
-
-# Dzialanie
-Poza bogata i ciagle powiekszajaca sie lista stron-smieci, filtr ten posiada takze spis "stron przekierowujacych" dzieki czemu blokowanie jest jeszcze lepsze. Kazda znaleziona/zgloszona strona-smiec jest sprawdzana dokladnie, razem z kodem zrodlowym, poniewaz znalezc na nich mozna najrozniejsze sztuczki, ktore "chowaja" prawdziwa domene strony. KAD sobie z tym radzi blokujac i oryginalna domene, jak i ta "przekierowujaca", przez co blokowanie jest bardziej efektywne.
-
-Subskrypcja KAD jest prosta i bezplatna, a aktualizacje sa automatyczne.
-
-# Swietne uzupelniacze
-Poniższe listy nie sa mojego autorstwa, jednak warto takze je zasubskrybowac, aby uzyskac jak najlepsza ochrone.
-
-* CertyficateIT | Polish filters to Adblock & uBlock -> https://github.com/MajkiIT/polish-ads-filter/wiki
-
-* Spam404 Filter -> http://www.spam404.com/blog/block-online-scams-with-spam404-and-adblock
+# KADRep
+Witaj w branchu KADRep. Znajdziesz tutaj listę stron, które zostały zgłoszone do administratorów w celu ich usunięcia.
+Można ją znaleźć w tym branchu o nazwie "lista.txt". Stanowi ona jedynie funkcję informacyjną i nie powinna być używana jako filtr.
 
 # Pomoz z oczyszczaniem polskiego Internetu!
-Jesli chcesz sie przyczynic do ulepszania listy KAD, zglaszaj strony w sekcji "Issues" na GitHubie lub na e-mail kadrep@outlook.com. Dzieki!
-
-# Informacje dodatkowe
-Pomimo, ze zasubskrybowanie KAD wraz z filtrami powyzej tworzy swietna calosc, nie oznacza to jednak w zaden sposob 100% ochrony, poniewaz taka nie istnieje. Zapamietaj, zeby zachowac zdrowy rozsadek podczas przegladania sieci - czytaj regulaminy podejrzanych stron, szczegolnie tych, ktore oferuja cos "za darmo".
-
-Lista jest oparta na licencji CC BY-NC-SA 4.0.
+Jeśli chcesz się przyczynić do ulepszania listy KAD, zgłaszaj strony w sekcji "Issues" na GitHubie, na e-mail kadrep@outlook.com lub tutaj: https://azet12.github.io/KAD/informacje.html Dzięki!
