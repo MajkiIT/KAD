@@ -1,22 +1,49 @@
-Strony zgloszone przez KAD i usuniete przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 13.08.16r. 00:03
+Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
+Ostatnia aktualizacja: 13.08.16r. 00:20
+UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
+Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
-## XN.PL i XJA.PL
-# Zgloszone (oczekiwanie na usuniecie):
-pokemongopoland.xn.pl
-riot-service.xn.pl
-date-smierci.xn.pl
-pakiet-pokemon-go.xn.pl
-test-inteligenci.xn.pl
-prezent-lewandowski.xja.pl
-destrukcja.xja.pl
-petycjaxx.xn.pl
-sexcleo.xja.pl
-sex-w-biurze.xn.pl
-fbpodgladaczek.xja.pl
+## CBA.PL i powiazane ##
+novator.c0.pl
+nowalternatywa.cba.pl
 
-# Zgloszone i usuniete:
+## Hostinger ##
+klub-msp.hol.es
+kody-do-msp.esy.es
+
+## PRV.PL i powiazane ##
+online-tarzan-legenda-lektor-pl.prv.pl
+tarzan-legenda-ogladaj-2016-pl.prv.pl
+batman-v-superman-film-online.prv.pl
+goracynews24.prv.pl
+yotubecom-gimnazjalistka-mp4.prv.pl
+facebarwy.prv.pl
+wtftube-gimnazjalistka-mp4.prv.pl
+smiertelnywypadek.prv.pl
+imigranci.prv.pl
+testy-na--iq.prv.pl
+paysafecard-kody.prv.pl
+kody-paysafecard-10euro.prv.pl
+paysafecard-rozdajemy-kody.prv.pl
+paysafecard-10eur.prv.pl
+paysafecard10eur-promocja.prv.pl
+etest-iq.prv.pl
+doladowanie50zl-kom.prv.pl
+doladowanie-telefon.prv.pl
+
+## 80.pl i powiazane ##
+odbierz-50doladowanie.dz.pl
+odbieraj-doladowanie.dz.pl
+doladowanie50zl.dz.pl
+dzieci23.dz.pl
+dzieci22.dz.pl
+zgarnij-doladowanko.dz.pl
+zdjeciezwakacji-konkurs.dz.pl
+doladowanie50zll.dz.pl
+free50zldoladowanie.dz.pl
+
+## XN.PL i XJA.PL ##
 dzieci11.xja.pl
 podgfb.xja.pl
 podgfb1.xja.pl
