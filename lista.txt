@@ -1,10 +1,11 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 13.08.16r. 00:20
+Ostatnia aktualizacja: 13.08.16r. 17:41
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
 ## CBA.PL i powiazane ##
+duuu.c0.pl
 novator.c0.pl
 nowalternatywa.cba.pl
 
