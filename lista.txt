@@ -1,10 +1,11 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 13.08.16r. 17:41
+Ostatnia aktualizacja: 15.08.16r. 15:30
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
 ## CBA.PL i powiazane ##
+duu.c0.pl
 duuu.c0.pl
 novator.c0.pl
 nowalternatywa.cba.pl
@@ -45,6 +46,39 @@ doladowanie50zll.dz.pl
 free50zldoladowanie.dz.pl
 
 ## XN.PL i XJA.PL ##
+1pakiety-pokemongo.xja.pl
+2pakiety-pokemongo.xja.pl
+3pakiety-pokemongo.xja.pl
+4pakiety-pokemongo.xja.pl
+5pakiety-pokemongo.xja.pl
+6pakiety-pokemongo.xja.pl
+1face-colors.xja.pl
+2face-colors.xja.pl
+3face-colors.xja.pl
+4face-colors.xja.pl
+5face-colors.xja.pl
+6face-colors.xja.pl
+1face-podgladacz.xja.pl
+2face-podgladacz.xja.pl
+3face-podgladacz.xja.pl
+4face-podgladacz.xja.pl
+5face-podgladacz.xja.pl
+6face-podgladacz.xja.pl
+dzieci10.xja.pl
+dzieci12.xja.pl
+zmianakolorow.xja.pl
+podgladaczpl.xja.pl
+pokemongopoland.xn.pl
+riot-service.xn.pl
+date-smierci.xn.pl
+pakiet-pokemon-go.xn.pl
+test-inteligenci.xn.pl
+prezent-lewandowski.xja.pl
+destrukcja.xja.pl
+petycjaxx.xn.pl
+sexcleo.xja.pl
+sex-w-biurze.xn.pl
+fbpodgladaczek.xja.pl
 dzieci11.xja.pl
 podgfb.xja.pl
 podgfb1.xja.pl
