@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 15.08.16r. 15:30
+Ostatnia aktualizacja: 15.08.16r. 16:03
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
@@ -35,6 +35,9 @@ doladowanie50zl-kom.prv.pl
 doladowanie-telefon.prv.pl
 
 ## 80.pl i powiazane ##
+pornhube.esite.pl
+face-viewer.esite.pl
+nagasexmasterka-video.esite.pl
 odbierz-50doladowanie.dz.pl
 odbieraj-doladowanie.dz.pl
 doladowanie50zl.dz.pl
@@ -48,21 +51,15 @@ free50zldoladowanie.dz.pl
 ## XN.PL i XJA.PL ##
 1pakiety-pokemongo.xja.pl
 2pakiety-pokemongo.xja.pl
-3pakiety-pokemongo.xja.pl
-4pakiety-pokemongo.xja.pl
-5pakiety-pokemongo.xja.pl
+..
 6pakiety-pokemongo.xja.pl
 1face-colors.xja.pl
 2face-colors.xja.pl
-3face-colors.xja.pl
-4face-colors.xja.pl
-5face-colors.xja.pl
+..
 6face-colors.xja.pl
 1face-podgladacz.xja.pl
 2face-podgladacz.xja.pl
-3face-podgladacz.xja.pl
-4face-podgladacz.xja.pl
-5face-podgladacz.xja.pl
+..
 6face-podgladacz.xja.pl
 dzieci10.xja.pl
 dzieci12.xja.pl
