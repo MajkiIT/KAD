@@ -1,8 +1,20 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 15.08.16r. 16:03
+Ostatnia aktualizacja: 16.08.16r. 18:56
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
+
+## ATWEBPAGES ##
+news-wiadomosci.atwebpages.com
+newsy24polska.atwebpages.com
+wiadomoscinews28.atwebpages.com
+tak.atwebpages.com
+nie.atwebpages.com
+iphone63.atwebpages.com
+wiadomosci25.atwebpages.com
+polskawiadomsci44.atwebpages.com
+szokinf.atwebpages.com
+wiadozeswiata24.atwebpages.com
 
 ## CBA.PL i powiazane ##
 duu.c0.pl
@@ -49,6 +61,13 @@ doladowanie50zll.dz.pl
 free50zldoladowanie.dz.pl
 
 ## XN.PL i XJA.PL ##
+cgfoyxv.xn.pl
+qqpzfhg.xn.pl
+ccviaoy.xn.pl
+twqbtlz.xn.pl
+alezmiana.xn.pl
+newsy24.xja.pl
+sexcleo.xja.pl
 1pakiety-pokemongo.xja.pl
 2pakiety-pokemongo.xja.pl
 ..
