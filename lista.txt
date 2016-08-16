@@ -1,10 +1,11 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 16.08.16r. 18:56
+Ostatnia aktualizacja: 16.08.16r. 19:55
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
 ## ATWEBPAGES ##
+dontdoit.atwebpages.com
 news-wiadomosci.atwebpages.com
 newsy24polska.atwebpages.com
 wiadomoscinews28.atwebpages.com
