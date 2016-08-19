@@ -1,10 +1,11 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 17.08.16r. 17:05
+Ostatnia aktualizacja: 19.08.16r. 20:00
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
 ## ATWEBPAGES ##
+lllll.atwebpages.com
 dontdoit.atwebpages.com
 news-wiadomosci.atwebpages.com
 newsy24polska.atwebpages.com
@@ -21,6 +22,9 @@ wiadozeswiata24.atwebpages.com
 flaczki.firmowo.net
 
 ## CBA.PL i powiazane ##
+opinie-0rp.cba.pl
+kredyt-5j.cba.pl
+pozabankowe-8r.cba.pl
 duu.c0.pl
 duuu.c0.pl
 novator.c0.pl
@@ -158,3 +162,25 @@ pakiet10gbinternetu.xn.pl
 50doladowanie.xn.pl
 netinfopolska.xn.pl
 kiedy-umrzesz24.xn.pl
+
+## 1x.biz ##
+fbszpieg.1x.biz
+ktoodwiedza.1x.biz
+szpiegus.1x.biz
+dfytre.1x.biz
+dtyuyjh.1x.biz
+smnju.1x.biz
+dlopo.1x.biz
+ylkoiu.1x.biz
+sdgyt.1x.biz
+aftyh.1x.biz
+ktopodglada3.1x.biz
+zobaczyli4.1x.biz
+p0dgl4d8.1x.biz
+aftyh.1x.biz
+p0dgl4d3.1x.biz
+viewerfb5.1x.biz
+fbpodgladanie3.1x.biz
+szpiegus.1x.biz
+szpiegfejs3.1x.biz
+podgladacz1.1x.biz
