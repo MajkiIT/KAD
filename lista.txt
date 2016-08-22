@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 20.08.16r. 23:49
+Ostatnia aktualizacja: 22.08.16r. 21:43
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
@@ -55,6 +55,14 @@ doladowanie50zl-kom.prv.pl
 doladowanie-telefon.prv.pl
 
 ## 80.pl i powiazane ##
+v2-doladowanie.esite.pl
+10-eur-paysafecard.esite.pl
+pyyaiyi.esite.pl
+mrmxpgc.esite.pl
+darckje.esite.pl
+nvyagkx.esite.pl
+nuqhtfx.esite.pl
+nbrdukg.esite.pl
 ghjakel2.esite.pl
 ghjakel3.esite.pl
 ..
