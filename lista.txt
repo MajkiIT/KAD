@@ -1,10 +1,11 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 22.08.16r. 21:43
+Ostatnia aktualizacja: 23.08.16r. 14:31
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
 ## ATWEBPAGES ##
+ktotowie.atwebpages.com
 lllll.atwebpages.com
 dontdoit.atwebpages.com
 news-wiadomosci.atwebpages.com
@@ -55,6 +56,17 @@ doladowanie50zl-kom.prv.pl
 doladowanie-telefon.prv.pl
 
 ## 80.pl i powiazane ##
+foty-najfajniejsze.bo.pl
+iytsdfg.esite.pl
+sdvbpao.esite.pl
+rpblsdd.esite.pl
+jeaxznd.esite.pl
+vkbloqb.esite.pl
+xqglxyn.esite.pl
+ezwuqto.esite.pl
+vwnuqkh.esite.pl
+kswjxvz.esite.pl
+ycujtwj.esite.pl
 v2-doladowanie.esite.pl
 10-eur-paysafecard.esite.pl
 pyyaiyi.esite.pl
@@ -80,6 +92,12 @@ zgarnij-doladowanko.dz.pl
 zdjeciezwakacji-konkurs.dz.pl
 doladowanie50zll.dz.pl
 free50zldoladowanie.dz.pl
+
+## 5v.pl ##
+ktotenwie.5v.pl
+ktotowie.5v.pl
+ktowie.5v.pl
+ktoodwiedza.5v.pl
 
 ## XN.PL i XJA.PL ##
 gazetazachodnia.xja.pl
