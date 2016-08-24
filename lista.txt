@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 23.08.16r. 14:31
+Ostatnia aktualizacja: 24.08.16r. 19:21
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
@@ -56,6 +56,18 @@ doladowanie50zl-kom.prv.pl
 doladowanie-telefon.prv.pl
 
 ## 80.pl i powiazane ##
+1face-colors.esite.pl
+..
+92face-colors.esite.pl
+1face-podgladacz.esite.pl
+..
+92face-podgladacz.esite.pl
+50zl-doladowanie-free.esite.pl
+podgladacz-face.esite.pl
+fejsikpodgladacz1.esite.pl
+fejsikpodgladacz2.esite.pl
+sms-konkursy.bo.pl
+wygraj-miska.bo.pl
 foty-najfajniejsze.bo.pl
 iytsdfg.esite.pl
 sdvbpao.esite.pl
@@ -100,6 +112,9 @@ ktowie.5v.pl
 ktoodwiedza.5v.pl
 
 ## XN.PL i XJA.PL ##
+news27.xja.pl
+informuj21.xja.pl
+pokaz-ada2.xn.pl
 gazetazachodnia.xja.pl
 smiesznefoty.xja.pl
 najlepszeap.xja.pl
