@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 24.08.16r. 19:21
+Ostatnia aktualizacja: 24.08.16r. 19:26
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
@@ -20,6 +20,7 @@ szokinf.atwebpages.com
 wiadozeswiata24.atwebpages.com
 
 ## FRIKO.PL ##
+i-foka.za.pl
 flaczki.firmowo.net
 
 ## CBA.PL i powiazane ##
