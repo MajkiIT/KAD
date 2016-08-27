@@ -1,10 +1,11 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 25.08.16r. 20:07
+Ostatnia aktualizacja: 27.08.16r. 25:58
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
 ## ATWEBPAGES ##
+mirableki.atwebpages.com
 newswiadomosci50.atwebpages.com
 ktotowie.atwebpages.com
 lllll.atwebpages.com
@@ -242,3 +243,6 @@ fbpodgladanie3.1x.biz
 szpiegus.1x.biz
 szpiegfejs3.1x.biz
 podgladacz1.1x.biz
+
+## DOT.tk ##
+newsy22.tk
