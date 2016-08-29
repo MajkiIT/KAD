@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 29.08.16r. 21:57
+Ostatnia aktualizacja: 29.08.16r. 23:40
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
@@ -42,6 +42,7 @@ novator.c0.pl
 nowalternatywa.cba.pl
 
 ## Hostinger ##
+mirabelki.esy.es
 suuperfilmyy.esy.es
 klub-msp.hol.es
 kody-do-msp.esy.es
@@ -275,3 +276,6 @@ podgladacz1.1x.biz
 
 ## DOT.tk ##
 newsy22.tk
+
+## 1free.eu ##
+mirabelki.1free.eu
