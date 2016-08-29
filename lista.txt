@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 29.08.16r. 19:47
+Ostatnia aktualizacja: 29.08.16r. 20:35
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
@@ -27,6 +27,7 @@ i-foka.za.pl
 flaczki.firmowo.net
 
 ## CBA.PL i powiazane ##
+spokofilmy.cba.pl
 wartobyc.y0.pl
 mirabelki.y0.pl
 ciekawefilsmy.cba.pl
