@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 30.08.16r. 19:29
+Ostatnia aktualizacja: 31.08.16r. 14:30
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
@@ -285,3 +285,6 @@ mirabelki.1free.eu
 ## ugu.pl ##
 smokobujcas.ugu.pl
 zanetka.ugu.pl
+
+## freehostingeu.com ##
+smokobujcaaaa.eu.pn
