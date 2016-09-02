@@ -1,0 +1,27 @@
+Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
+Ostatnia aktualizacja: 02.09.16r. 22:49
+UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
+
+Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
+
+## ATWEBPAGES ##
+airfun.atwebpages.com
+runaxe.atwebpages.com
+
+## FRIKO.PL ##
+fotosik.stroniczka.pl
+fotografie.xonx.pl
+kolorowo.grupki.com
+igorek.brejk.pl
+
+## CBA.PL ##
+kolorowo.grupki.com
+igorek.brejk.pl
+
+## XN.PL ##
+zobacz-komentarze.xja.pl
+komentuj-przegladaj.xja.pl
+fotosik-top100.xja.pl
+f-fota.xja.pl
+ogladaj-komentuj.xja.pl
+zobacz-foto.xja.pl 
