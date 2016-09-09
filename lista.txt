@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 07.09.16r. 21:06
+Ostatnia aktualizacja: 09.09.16r. 17:05
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
@@ -11,6 +11,8 @@ airfun.atwebpages.com
 runaxe.atwebpages.com
 
 ## FRIKO.PL ##
+kaczkipyrpyr.za.pl
+iluzjonista.w8w.pl
 kaczkia.za.pl
 ikonka.w8w.pl
 ikij.w8w.pl
