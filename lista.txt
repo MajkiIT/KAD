@@ -1,6 +1,8 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 09.09.16r. 17:05
+Ostatnia aktualizacja: 13.09.16r. 12:43
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
+
+Lista dotyczy jedynie aktualnego miesiaca. Listy archiwalne sa dostepne tutaj: https://github.com/azet12/KAD/tree/KADRep/Archiwum-2016
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
@@ -11,6 +13,11 @@ airfun.atwebpages.com
 runaxe.atwebpages.com
 
 ## FRIKO.PL ##
+ikuk.w8w.pl
+irem.w8w.pl
+fornalki.za.pl
+ilunstracje.za.pl
+finalq.za.pl
 kaczkipyrpyr.za.pl
 iluzjonista.w8w.pl
 kaczkia.za.pl
