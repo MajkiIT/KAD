@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 14.09.16r. 13:48
+Ostatnia aktualizacja: 16.09.16r. 16:33
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Lista dotyczy jedynie aktualnego miesiaca. Listy archiwalne sa dostepne tutaj: https://github.com/azet12/KAD/tree/KADRep/Archiwum-2016
@@ -13,6 +13,8 @@ airfun.atwebpages.com
 runaxe.atwebpages.com
 
 ## FRIKO.PL ##
+kutasiki.za.pl
+kolorowo.w8w.pl
 fkoisu.xonx.pl
 iluunstracje.wpaski.com
 ikuk.w8w.pl
@@ -65,6 +67,10 @@ qpjqqlo.1x.net
 bihgouv.1x.net
 egzbrrt.1x.net
 .. oraz wiele więcej linków dodanych przez boty
+
+## atwebpages ##
+szokujace24.atwebpages.com
+szokujace25.atwebpages.com
 
 ## inne ##
 ktotopaczy.pl
