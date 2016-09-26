@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 16.09.16r. 16:33
+Ostatnia aktualizacja: 26.09.16r. 16:14
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Lista dotyczy jedynie aktualnego miesiaca. Listy archiwalne sa dostepne tutaj: https://github.com/azet12/KAD/tree/KADRep/Archiwum-2016
@@ -7,6 +7,9 @@ Lista dotyczy jedynie aktualnego miesiaca. Listy archiwalne sa dostepne tutaj: h
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
 ## ATWEBPAGES ##
+gitarasiema5.atwebpages.com
+szokujace24.atwebpages.com
+szokujace25.atwebpages.com
 clasher12.atwebpages.com
 newsypolska244.atwebpages.com
 airfun.atwebpages.com
@@ -68,9 +71,12 @@ bihgouv.1x.net
 egzbrrt.1x.net
 .. oraz wiele więcej linków dodanych przez boty
 
-## atwebpages ##
-szokujace24.atwebpages.com
-szokujace25.atwebpages.com
+## iwebt.pl ##
+wiadomosci31.iwebt.pl
+
+## 5v.pl ##
+newsy22.5v.pl
+informuj-27.5v.pl
 
 ## inne ##
 ktotopaczy.pl
