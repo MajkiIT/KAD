@@ -2,7 +2,7 @@ Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozni
 Ostatnia aktualizacja: 26.09.16r. 16:14
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
-Lista dotyczy jedynie aktualnego miesiaca. Listy archiwalne sa dostepne tutaj: https://github.com/azet12/KAD/tree/KADRep/Archiwum-2016
+  Ta lista jest archiwalna. Aby otrzymac spis z aktualnego miesiaca sprawdz tutaj: https://github.com/azet12/KAD/blob/KADRep/lista.txt
 
 Wszystkie ponizsze strony byly zamieszane w przekrety SMS lub phishing.
 
