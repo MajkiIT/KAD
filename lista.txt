@@ -1,5 +1,5 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 10.10.16r. 16:19
+Ostatnia aktualizacja: 13.10.16r. 15:37
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Lista dotyczy jedynie aktualnego miesiaca. Listy archiwalne sa dostepne tutaj: https://github.com/azet12/KAD/tree/KADRep/Archiwum-2016
@@ -25,4 +25,10 @@ sjbsal6exayjspv.xn.pl
 u6mdyxgdm3lhrtg.xn.pl
 fwmziw3vsst6fia.xn.pl
 1gkonl6z8zbhldp.xn.pl
+
+## 6te ##
+lulu.6te.net
+yenna.6te.net
+wokwok.6te.net
+wonka.6te.net
 
