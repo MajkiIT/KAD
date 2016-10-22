@@ -1,15 +1,21 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 13.10.16r. 15:37
+Ostatnia aktualizacja: 22.10.16r. 14:31
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
 Lista dotyczy jedynie aktualnego miesiaca. Listy archiwalne sa dostepne tutaj: https://github.com/azet12/KAD/tree/KADRep/Archiwum-2016
 
 Wiekszosc ponizszych stron byly probami wykradzenia danych.
 
+## friko ##
+igggnel.za.pl
+koloroweinformacje.w8w.pl
+koraloweinformacje.aq.pl
+
 ## atwebpages ##
 bestaoe.atwebpages.com
 lolpl13.getenjoyment.net
 lolpl15.getenjoyment.net
+tikitaka.getenjoyment.net
 
 ## xn.pl ##
 0qitne7f8mieyko.xn.pl
@@ -32,3 +38,5 @@ yenna.6te.net
 wokwok.6te.net
 wonka.6te.net
 
+## inne ##
+tikitaka.borec.cz
