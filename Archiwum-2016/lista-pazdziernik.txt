@@ -1,8 +1,8 @@
 Strony zgloszone przez KAD i usuniete/zablokowane przez administratorow najrozniejszych hostingow.
-Ostatnia aktualizacja: 22.10.16r. 14:31
+Ostatnia aktualizacja: 02.11.16r. 13:31 [dane nadal dotycza tylko pazdziernika]
 UWAGA: To NIE JEST filtr do Adblocka i uBlocka! Jest to jedynie lista informacyjna.
 
-Lista dotyczy jedynie aktualnego miesiaca. Listy archiwalne sa dostepne tutaj: https://github.com/azet12/KAD/tree/KADRep/Archiwum-2016
+  Ta lista jest archiwalna. Aby otrzymac spis z aktualnego miesiaca sprawdz tutaj: https://github.com/azet12/KAD/blob/KADRep/lista.txt
 
 Wiekszosc ponizszych stron byly probami wykradzenia danych.
 
@@ -10,6 +10,10 @@ Wiekszosc ponizszych stron byly probami wykradzenia danych.
 igggnel.za.pl
 koloroweinformacje.w8w.pl
 koraloweinformacje.aq.pl
+ijer.za.pl
+iiiilustracje.za.pl
+kotel.za.pl
+koleka.w8w.pl
 
 ## atwebpages ##
 bestaoe.atwebpages.com
@@ -40,3 +44,23 @@ wonka.6te.net
 
 ## inne ##
 tikitaka.borec.cz
+yqrfdr.eu.ki
+yxydqd.eu.ki
+xutjfo.eu.ki
+xkhtse.eu.ki
+ttjqux.eu.ki
+ipkruy.eu.ki
+bpvcqn.eu.ki
+teypcd.eu.ki
+vkcyqd.eu.ki
+vvanjz.eu.ki
+eliyzy.eu.ki
+yczhxc.eu.ki
+lmojoq.eu.ki
+zejxzq.eu.ki
+akimmg.eu.ki
+vcqrou.eu.ki
+qlxtci.eu.ki
+dmqxmo.eu.ki
+ihnioe.eu.ki
+tdxoui.eu.ki
