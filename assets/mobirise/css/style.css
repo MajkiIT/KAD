@@ -568,8 +568,8 @@ html {
   padding-bottom: 41px;
 }
 .mbr-section__container--isolated {
-  padding-bottom: 93px;
-  padding-top: 93px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 .mbr-section__container--first {
   padding-top: 93px;
@@ -812,12 +812,13 @@ html {
   font-size: 46px;
   font-weight: bold;
   left: -2px;
-  letter-spacing: 2px;
+  letter-spacing: 0px;
   line-height: 50px;
-  margin: -18px 0 1px 0;
+  margin: -50px 0 1px 0;
   padding-bottom: 41px;
   position: relative;
   top: 8px;
+  text-shadow: 0px 0px 20px black;
 }
 .mbr-hero__subtext {
   font-size: 21px;
